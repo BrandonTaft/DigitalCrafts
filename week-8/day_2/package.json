@@ -1,0 +1,27 @@
+{
+  "name": "week8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mustache-express": "^1.3.1",
+    "pg-promise": "^10.11.0",
+    "session": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Btaft6278/week8.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Btaft6278/week8/issues"
+  },
+  "homepage": "https://github.com/Btaft6278/week8#readme",
+  "description": ""
+}
