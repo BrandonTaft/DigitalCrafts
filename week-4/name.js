@@ -1,0 +1,5 @@
+let first = document.getElementById("first")
+let last = document.getElementById("last")
+let submitButton = document.getElementById("submitButton")
+let nameHeading = document.getElementById("nameHeading")
+let names = document.getElementById("names")
