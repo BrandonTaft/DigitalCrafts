@@ -1,0 +1,18 @@
+.containerTwo{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+
+width: 80%;
+}
+
+.containerTwo a{
+    font-size: x-large;
+    margin-right: 5%;
+}
+
+.containerTwo div{
+    background-color: orange;
+    color: white;
+
+}

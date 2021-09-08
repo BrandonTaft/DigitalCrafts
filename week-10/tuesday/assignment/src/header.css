@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    background-color:blue;
+    color: white;
+    justify-content: space-between;
+    height: 20%;
+
+}
+
+.header div{
+    margin-right: 20%;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: x-large;
+}

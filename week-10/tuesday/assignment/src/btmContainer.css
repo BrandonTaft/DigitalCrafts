@@ -1,0 +1,18 @@
+.btmContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+
+width: 80%;
+}
+
+.btmContainer a{
+    font-size: x-large;
+    margin-right: 5%;
+}
+
+.btmContainer div{
+    background-color: orange;
+    color: white;
+
+}

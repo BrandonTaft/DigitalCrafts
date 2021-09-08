@@ -1,0 +1,11 @@
+.containerOne{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+background-color: lightgray;
+width: 80%;
+}
+
+.containerOne div{
+    font-size: x-large;
+}
