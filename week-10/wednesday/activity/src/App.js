@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Switch from './Components/Switch'
-import ApiReact from './Components/ApiReact'
+
 
 class App extends Component {
 
