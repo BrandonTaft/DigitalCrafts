@@ -1,0 +1,31 @@
+<html>
+<head></head>
+
+<body>
+
+<form method="POST" action="/create">
+    <input type="text" name="title" placeholder="TITLE"/>
+    <input type="text" name="description" placeholder="DESCRIPTION"/>
+    <input type="text" name="genre" placeholder="GENRE"/>
+   
+
+    <button id="Submit">Submit</button>
+</form>
+
+<ul>
+
+{{#moviesList}}
+
+<li>{{title}}</li> 
+<li>{{description}}</li> 
+<li>{{genre}}</li> 
+
+
+{{/moviesList}}
+
+</ul>
+
+</body>
+
+
+</html>
