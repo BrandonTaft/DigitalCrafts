@@ -1,0 +1,52 @@
+@media  (max-width:480px) {
+    #container{display: flex;flex-direction: column;}
+}
+
+@media  (max-width:480px) {  #top{display: flex;flex-direction: column;}
+}
+
+
+
+#top{
+display: flex;
+background-color: black;
+
+    
+}
+
+#menu{
+    display: flex;
+    color: white;
+    padding: 4%;
+    margin-left: 5%;
+}
+
+#banner{
+    display: flex;
+    background-color:yellow;
+    
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#ad{
+    display: flex;
+    color: white;
+}
+
+#container{
+   
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+}
+
+
+#pics{
+    display:flex;
+
+    
+}
+
+}
